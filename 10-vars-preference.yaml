@@ -4,6 +4,8 @@
     COURSE: "DevOps with AWS from PLAY level"
     DURATION: "120HRS"
     TRAINER: "Sivakumar Reddy M"
+  vars_files:
+  - vars.yaml  
   vars_prompt: 
   - name: COURSE
     prompt: please enter the course name 
@@ -19,3 +21,5 @@
 
 
 # 1st reference is always command line/args(arguments)
+#2 Task level1
+#3  prompt
