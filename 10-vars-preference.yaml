@@ -16,3 +16,6 @@
       TRAINER: "Sivakumar Reddy M"
     ansible.builtin.debug:
       msg: "HI, I am learning {{COURSE}}"
+
+
+# 1st reference is always command line/args(arguments)
